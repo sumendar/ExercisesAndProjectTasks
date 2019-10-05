@@ -1,0 +1,120 @@
+{
+  "cells": [
+    {
+      "metadata": {
+        "collapsed": true
+      },
+      "cell_type": "markdown",
+      "source": "# Python project using real-world data\n*project1*  "
+    },
+    {
+      "metadata": {},
+      "cell_type": "markdown",
+      "source": "**Project Goal:**  \nExtract popular names by year including gender   "
+    },
+    {
+      "metadata": {},
+      "cell_type": "markdown",
+      "source": "**Dataset Location:**  \nU.S. Social Security baby name catalog (https://bit.ly/2f6Bz3o)   \n**Dataset Description:**  \nhttps://bit.ly/2ZPhSAZ  "
+    },
+    {
+      "metadata": {
+        "slideshow": {
+          "slide_type": "fragment"
+        }
+      },
+      "cell_type": "markdown",
+      "source": "**Steps Involved:**   \ngather the data  \nclean the data  \nperform calculations  \nplot the data  "
+    },
+    {
+      "metadata": {},
+      "cell_type": "markdown",
+      "source": "## Load The necessary packages"
+    },
+    {
+      "metadata": {
+        "trusted": true
+      },
+      "cell_type": "code",
+      "source": "# your code here",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "metadata": {},
+      "cell_type": "markdown",
+      "source": "## Load the Social Security data about baby names."
+    },
+    {
+      "metadata": {
+        "trusted": true
+      },
+      "cell_type": "code",
+      "source": "# your code here",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "metadata": {},
+      "cell_type": "markdown",
+      "source": "## Plot the popularity of a given name across all years."
+    },
+    {
+      "metadata": {
+        "trusted": true
+      },
+      "cell_type": "code",
+      "source": "# your code here",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "metadata": {},
+      "cell_type": "markdown",
+      "source": "## Extract the 10 most popular boy or girl names by year."
+    },
+    {
+      "metadata": {
+        "trusted": true
+      },
+      "cell_type": "code",
+      "source": "# your code here",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3",
+      "language": "python"
+    },
+    "language_info": {
+      "mimetype": "text/x-python",
+      "nbconvert_exporter": "python",
+      "name": "python",
+      "file_extension": ".py",
+      "version": "3.5.4",
+      "pygments_lexer": "ipython3",
+      "codemirror_mode": {
+        "version": 3,
+        "name": "ipython"
+      }
+    },
+    "toc": {
+      "nav_menu": {},
+      "number_sections": true,
+      "sideBar": true,
+      "skip_h1_title": false,
+      "base_numbering": 1,
+      "title_cell": "Table of Contents",
+      "title_sidebar": "Contents",
+      "toc_cell": false,
+      "toc_position": {},
+      "toc_section_display": true,
+      "toc_window_display": false
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 2
+}
